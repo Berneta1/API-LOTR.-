@@ -1,0 +1,24 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, Avenir, Arial, Helvetica, sans-serif;
+  color: rgba(255,255,255,057);
+  background-color: #1f4e48;
+}
+
+::-webkit-scrollbar {
+  width: 10px
+}
+
+::-webkit-scrollbar-track {
+  background-color: #00becc;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb {
+  background: #7f0101;
+  border-radius: 50px;
+}
